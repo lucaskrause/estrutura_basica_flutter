@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/krause/estrutura/login/estrutura_login_flutter/BuildConfig.java
+ com.krause.estrutura.login.estrutura_login_flutter.BuildConfig
