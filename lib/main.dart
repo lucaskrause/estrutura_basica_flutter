@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       ),
       // Gera as rotas para navegação
       onGenerateRoute: rotas(),
-      // Quando usa rotas ao invés de passar home, deve se passar initialRoute
+      // Quando usa rotas ao invés de usar home, deve se usar initialRoute
       initialRoute: SplashRoute,
     );
   }
